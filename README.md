@@ -1,6 +1,7 @@
 # Tableau de bord Analytique des Incidents de sécurité à la SNCF en 2023
 
-https://github.com/user-attachments/assets/5ad2cd6a-d36a-416e-a358-9178849ecc64
+
+https://github.com/user-attachments/assets/f1b40703-1732-4c1b-a3a4-265f5bcd1416
 
 
 Dans ce projet, je développe un tableau de bord interactif sous Python pour analyser les incidents de sécurité à la SNCF en 2023. Je déploie ce tableau de bord sous un conteneur **Docker** pour faciliter son éventuelle déploiement sur le Cloud.
