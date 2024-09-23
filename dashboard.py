@@ -218,15 +218,6 @@ app.layout = dbc.Container([
         dcc.Graph(figure=fig3)
     ], className="four columns"),
     
-    
-    dbc.Col([  dbc.Card([
-        
-        dcc.Graph(figure=fig4),
-        
-         ], style={'border': '0'})
-                 
-            ], className="four columns"),    
-
             ]),
 
 
