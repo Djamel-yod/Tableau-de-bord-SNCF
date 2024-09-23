@@ -18,6 +18,8 @@ import plotly.express as px
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = Dash(__name__, external_stylesheets=[dbc.themes.SPACELAB,
                                            dbc.icons.BOOTSTRAP])
+server= app.server
+
 # Chargement des données
 data=pd.read_csv("data.csv",sep=";")
 
